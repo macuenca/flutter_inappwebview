@@ -1,7 +1,7 @@
-name: platform_action_sheets
+name: flutter_inappwebview_fix
 description: ActionSheet for Cupertino and Android
-version: 0.0.3
-homepage: https://github.com/macuenca/platform_action_sheets/
+version: 6.0.1
+homepage: https://github.com/macuenca/flutter_inappwebview
 
 environment:
   sdk: ">=2.12.0 <3.0.0"
